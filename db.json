@@ -1,0 +1,27 @@
+{
+  "clientes": [
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Juan",
+      "empresa": "Valdez",
+      "email": "nv_velazquez@hotmail.com",
+      "telefono": "242",
+      "notas": "hola ",
+      "id": 7
+    },
+    {
+      "nombre": "Nicolas ",
+      "empresa": "Linkedin",
+      "email": "nit-cs@live.com.ar",
+      "telefono": "2914231087",
+      "notas": "Hola",
+      "id": 8
+    }
+  ]
+}
